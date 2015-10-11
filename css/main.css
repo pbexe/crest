@@ -1,0 +1,17 @@
+.bottom-align {
+    vertical-align: bottom;
+    margin: 0 auto;
+    bottom: 0 auto;
+    position: absolute;
+}
+
+.login {
+    color: #3D3D3D;
+}
+
+.header {
+    position: fixed !important;
+    z-index: 1;
+    right: 149px;
+    top: 9px;
+}
